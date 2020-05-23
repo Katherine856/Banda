@@ -4,6 +4,8 @@ Lindsey Katherine Camargo Beltrán - 20172020037
 
 Edwin Alejandro Fiesco Parra - 20182020108
 
+Se utilizó un entorno virtual Python donde se debe instalar el Framework Flask para poder visualizar el proyecto desde localhost:5000
+
 ## El Principio de responsabilidad única 
 
 Está presente en el ejercicio puesto que cada clase debe realizar únicamente un trabajo, separando así qué funcionalidades tiene que cumplir cada clase y que en caso de requerir modificaciones sólo se tenga que modificar una única cosa y esta se pueda encontrar con facilidad.
