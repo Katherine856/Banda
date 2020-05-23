@@ -25,3 +25,6 @@ En el ejercicio vemos que varios instrumentos heredan de la clase Instrumento, s
 Se cumple ya que ninguna clase debe hereda métodos que no usa. Por tanto, cuando creemos la clase abstracta Instrumento con sus comportamientos, todas las clases que implementen esta clase (Es decir los cada uno de los instrumentos definidos) necesitan y son capaces de agregar comportamientos a todos los métodos. 
 
 ## UML
+
+![UML Banda](https://user-images.githubusercontent.com/54810355/82720086-e24c9d80-9c75-11ea-9f7d-e4386ee80a07.jpg)
+
